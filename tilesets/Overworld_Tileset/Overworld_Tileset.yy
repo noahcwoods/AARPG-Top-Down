@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"Overworld_Tileset",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"Overworld_Tileset",
+  "out_columns":45,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"Overworld_Sprite",
+    "path":"sprites/Overworld_Sprite/Overworld_Sprite.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":8,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":8,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":2048,
+}
