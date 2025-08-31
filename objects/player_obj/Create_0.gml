@@ -33,4 +33,3 @@ function DEBUG_LOG(message)
 {
     show_debug_message(message);
 }
-

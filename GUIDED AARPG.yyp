@@ -101,6 +101,7 @@
     {"id":{"name":"spr_health_empty","path":"sprites/spr_health_empty/spr_health_empty.yy",},},
     {"id":{"name":"spr_health_full","path":"sprites/spr_health_full/spr_health_full.yy",},},
     {"id":{"name":"spr_health_half","path":"sprites/spr_health_half/spr_health_half.yy",},},
+    {"id":{"name":"spr_health_icons","path":"sprites/spr_health_icons/spr_health_icons.yy",},},
     {"id":{"name":"spr_hitbox_attack","path":"sprites/spr_hitbox_attack/spr_hitbox_attack.yy",},},
     {"id":{"name":"spr_life_text","path":"sprites/spr_life_text/spr_life_text.yy",},},
     {"id":{"name":"SPRITESHEET_HOLDER","path":"sprites/SPRITESHEET_HOLDER/SPRITESHEET_HOLDER.yy",},},
